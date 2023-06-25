@@ -18,7 +18,7 @@ export default function Home() {
         your vision to life and creating outdoor spaces that are both functional and visually
         stunning.
       </p>
-      <h3>Why choose us for your interlock needs? Here's what sets us apart:</h3>
+      <h3>Why choose us for your interlock needs? Here&apos;s what sets us apart:</h3>
       <ul>
         <li>
           Expertise: Our team consists of highly trained professionals who are well-versed in the
@@ -37,7 +37,7 @@ export default function Home() {
         </li>
         <li>
           Attention to Detail: We pay meticulous attention to every aspect of the installation
-          process, from proper site preparation to precise interlock placement. Our team's keen eye
+          process, from proper site preparation to precise interlock placement. Our team&apos;s keen eye
           for detail ensures flawless results that exceed your expectations.
         </li>
         <li>
@@ -57,7 +57,7 @@ export default function Home() {
         innovation, creativity, and professionalism to your next interlock project.
       </p>
       <p>
-        Contact us today to schedule a consultation and let's discuss how we can bring your vision
+        Contact us today to schedule a consultation and let&apos;s discuss how we can bring your vision
         to life. Together, we can create outdoor spaces that will leave a lasting impression and
         provide enjoyment for years to come. Welcome to the world of [Landscaping Company Name],
         where interlock installations come to life with style and excellence.
